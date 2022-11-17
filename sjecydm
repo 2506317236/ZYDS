@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<title>ZYDS二次元动漫</title>
+  </head>
+  <body>
+漫剪视频
+<video src="http://api.caonm.net/api/mjsp/m.php?" controls="controls" width="100%"></video>
+
+
+  </body>
+</html>
