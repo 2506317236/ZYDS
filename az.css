@@ -1,0 +1,83 @@
+*{
+  padding:0px;
+  margin:0px;
+  }
+.website{
+  position:fixed;
+  top:0px;
+  left:0px;
+  }
+.page{
+  position:absolute;
+  top:0px;
+  left:0px;
+  }
+.top{
+  position:fixed;
+  top:0px;
+  left:0px;
+  width:1000px;
+  height:201px;
+  background:rgba(188,192,191,0.2);
+  }
+.LOGO1{
+  position:fixed;
+  left:10px;
+  font-size:60px;
+  color:black;
+  font-weight:600;
+  }
+.LOGO2{
+  position:fixed;
+  left:180px;
+  font-size:60px;
+  color:pink;
+  font-weight:400;
+  }
+.cbl_search{
+  position:fixed;
+  top:20px;
+  right:360px;
+  font-size:50px;
+  }
+.cbl_login{
+  position:fixed;
+  top:10px;
+  right:250px;
+  font-size:30px;
+  color:rgba(248,115,152); 
+  background-color:rgba(235,235,235,0.8);
+  border-radius:50px;
+  }
+.cbl_xzApp{
+  position:fixed;
+  top:20px;
+  right:10px;
+  font-size:40px;
+  color:white;
+  font-weight:600;
+  background-color:rgba(248,115,152);
+  border-radius:20px;
+  }
+.btl{
+  position:fixed;
+  top:120px;
+  left:0px;
+  width:100%;
+  font-size:40px;
+  color:grey;
+  }
+.content{
+  margin-top:200px;
+  margin-left:20px;
+  margin-right:20px;
+  }
+/*视频栏*/
+video{
+  border-radius:10px;
+  width:95%;
+  }
+xx{
+  font-size:30px;
+  font-weight:400;
+  }
