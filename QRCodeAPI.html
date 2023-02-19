@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<title>二维码生成</title>
+    <script src="https://cdn.bootcdn.net/ajax/libs/qrcodejs/1.0.0/qrcode.js"></script>
+  </head>
+  <body>
+  <input type="text" id="nr"/> <button onclick="start()">生成</button>
+  <br><br>
+  <div id="qrcode"></div>
+  <script>
+  function start(){
+  let nr = document.getElementById("nr").value;
+  new QRCode(qrcode,nr)
+  }
+  </script>
+  </body>
+</html>
